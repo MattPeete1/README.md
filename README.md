@@ -1,5 +1,3 @@
-![Alt text](<Screenshot 2023-10-04 at 7.46.37 AM.png>)
-
 ## Skills
 - Javascript
 - CSS
