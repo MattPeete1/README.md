@@ -1,4 +1,4 @@
-https://media.licdn.com/dms/image/D5603AQHfhEhJGOEVgg/profile-displayphoto-shrink_800_800/0/1693068439005?e%253D1701907200%2526v%253Dbeta%2526t%253D_3TJkxMbqPxC5GSRTxdj1SFSft-AIxIcR_oM794F1oI
+![Alt text](<Screenshot 2023-10-04 at 7.46.37 AM.png>)
 
 ## Skills
 - Javascript
